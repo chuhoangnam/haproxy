@@ -1,0 +1,6 @@
+# ctags file
+tags
+*.tags
+
+# vim file
+*.vim
